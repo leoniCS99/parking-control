@@ -1,7 +1,7 @@
 <img src="https://miro.medium.com/max/700/1*-uckV8DOh3l0bCvqZ73zYg.png" width="250">
 
 # Projeto parking-control
-Aplicação que realiza cadastro de Usuários para base de Conhecimento em androide Nativo 
+API para Gestão de Controle de Estacionamento
 
 
 ## Tecnologias
@@ -10,7 +10,9 @@ Tecnologias utilizadas neste projeto.
 
 * Java 11
 * Spring Boot 2.3.6
-* Spring Web 
+* Spring Web
+* Spring Data JPA
+* Spring Validation
 * Postgres
 
 
