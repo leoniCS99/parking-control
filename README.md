@@ -1,7 +1,7 @@
 <img src="https://miro.medium.com/max/700/1*-uckV8DOh3l0bCvqZ73zYg.png" width="250">
 
 # Projeto parking-control
-API para Gestão de Controle de Estacionamento
+Aplicação que realiza a Gestão de Controle para Vagas de Estacionamento
 
 
 ## Tecnologias
