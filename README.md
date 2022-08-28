@@ -27,7 +27,7 @@ Tecnologias utilizadas neste projeto.
       leonecezar99@hotmail.com diretamente em vez de usar o rastreador de problemas. Nós valorizamos seu esforço
       para melhorar a segurança e privacidade deste projeto!
 
-  ## Versioning
+  ## version
 
   1.0.0.0
 
